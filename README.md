@@ -1,4 +1,4 @@
-# ## Read Me ##
+## Read Me ##
 
 
 Instructor: Breman Thuraisingham
